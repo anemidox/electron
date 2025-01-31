@@ -1,0 +1,5 @@
+{
+    "watch": ["main.js", "index.html"],
+    "exec": "electron ."
+  }
+  
